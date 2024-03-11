@@ -1,0 +1,7 @@
+task:
+  name: "Lavender 4.19 Standard"
+  timeout_in: 1h
+  container:
+      image: nexgang/ubuntu:latest
+      cpu: 8
+      memory: 32G
